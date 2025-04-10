@@ -1,4 +1,4 @@
-# SARAM-Scene-Aware-Rapid-Mapping-for-Active-SLAM-with-Large-Language-Model-Based-Prior-Information
+# SARAM: Scene-Aware Rapid Mapping for Active SLAM With Large Language Model Based Prior Information
 
 
 # Organizations and participants
